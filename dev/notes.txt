@@ -1,0 +1,31 @@
+- x Vite
+- x minimize Vite
+
+- x react-bootstrap
+- x bootswatch themes
+- x create component: Employees.jsx
+- x carousel, dummy pics
+- x form
+	- First Name
+- x build in react-hook-form basics
+- x show data sent from form
+- x first name required
+- x first name must be at least 2 character
+- x show data on submit
+- x show errors
+- x disable button on errors
+- x other fields
+	- x Last Name
+	- x Department
+- x default values on department
+
+- x employees as json file: /src/data/data.json
+	- https://raw.githubusercontent.com/graphql-compose/graphql-compose-examples/master/examples/northwind/data/json/employees.json
+- x set up json-server via API
+- x carousel of employee pics
+- x dummy autocomplete: '/4/' --> Jim Smith
+- x form with auto-complete
+- x show employee with id
+
+- x slider
+	- x create slider and show number as one slides
